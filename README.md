@@ -12,4 +12,3 @@ This is my personal website showcasing my skills, projects, and experience as a 
 
 ---
 
-## 📂 **Project Structure**
